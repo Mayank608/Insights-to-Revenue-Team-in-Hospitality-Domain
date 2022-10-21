@@ -9,3 +9,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Task:  
 
 You are a data analyst who has been provided with sample data and a mock-up dashboard to work on the following task. You can download all relevant documents from the download section.
+
+
+
+![Hospitality](https://user-images.githubusercontent.com/111105837/197158484-9c26fd76-3dab-42dd-ac65-c824856b4c18.PNG)
+
